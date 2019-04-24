@@ -12,4 +12,4 @@ $ sass --watch scss:css
 
 ---
 
- If you've landed here from somewhere other than the course, [check out the course on Open Classrooms](https://openclassrooms.com/en/courses/5625816-create-modern-css-animations) and we hope to see you back here when you reach this activity at the end of part 2 of the course :)
+ If you've landed here from somewhere other than the course, [check out the course on Open Classrooms](https://openclassrooms.com/en/courses/5625816-create-modern-css-animations) and we hope to see you back here when you reach this activity at the end of part 3 of the course :)
