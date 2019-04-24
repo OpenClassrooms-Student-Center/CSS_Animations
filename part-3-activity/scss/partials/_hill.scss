@@ -9,7 +9,7 @@
   background-color: #adde60;
   z-index:-1;
 
-  &:after {
+  &::after {
     content: '';
     position: absolute;
     bottom: -100px;
@@ -22,7 +22,7 @@
     transform:rotate(-12deg);
     box-shadow:0 0 25px #cbf191 inset;
   }
-  &:before {
+  &::before {
     background-color: #93cc3a;
       border-top-left-radius: 0;
       border-top-right-radius: 100%;
