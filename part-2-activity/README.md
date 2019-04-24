@@ -1,4 +1,4 @@
-These are the files for the first activity at the end of Part 2 of the [Create Modern CSS Animations](https://openclassrooms.com/en/courses/5625816-create-modern-css-animations) course on [Open Classrooms](http://openclassrooms.com/).
+These are the files for the activity at the end of Part 2 of the [Create Modern CSS Animations](https://openclassrooms.com/en/courses/5625816-create-modern-css-animations) course on [Open Classrooms](http://openclassrooms.com/).
 
 While working on the activity, if you want to use the sass files instead of editing the css file directly, then if you have [sass](https://sass-lang.com/) installed you can run 
 
